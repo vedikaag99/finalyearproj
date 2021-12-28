@@ -3,7 +3,7 @@ class Home extends React.Component{
     render(){
         return (
             <div>
-                    <section class="banner--section">
+            <section class="banner--section">
 
 <div class="banner--slider owl-carousel" data-owl-dots="true">
 
@@ -284,7 +284,7 @@ class Home extends React.Component{
         </div>
 
         <div class="title">
-            <h2 class="h6"><a href="group-home.html">Travel ( Just Take A Tour )</a></h2>
+            <h2 class="h6"><a href="#">Travel ( Just Take A Tour )</a></h2>
         </div>
 
         <div class="meta">
@@ -313,7 +313,7 @@ class Home extends React.Component{
         </div>
 
         <div class="title">
-            <h2 class="h6"><a href="group-home.html">Music is Love</a></h2>
+            <h2 class="h6"><a href="#">Music is Love</a></h2>
         </div>
 
         <div class="meta">
@@ -342,7 +342,7 @@ class Home extends React.Component{
         </div>
 
         <div class="title">
-            <h2 class="h6"><a href="group-home.html">Techhies </a></h2>
+            <h2 class="h6"><a href="#">Techhies </a></h2>
         </div>
 
         <div class="meta">
@@ -371,7 +371,7 @@ class Home extends React.Component{
         </div>
 
         <div class="title">
-            <h2 class="h6"><a href="group-home.html">Culinary and Food</a></h2>
+            <h2 class="h6"><a href="#">Culinary and Food</a></h2>
         </div>
 
         <div class="meta">
@@ -400,7 +400,7 @@ class Home extends React.Component{
         </div>
 
         <div class="title">
-            <h2 class="h6"><a href="group-home.html">Pet Care</a></h2>
+            <h2 class="h6"><a href="#">Pet Care</a></h2>
         </div>
 
         <div class="meta">
@@ -439,7 +439,7 @@ class Home extends React.Component{
 <div class="box--items owl-carousel" data-owl-items="4" data-owl-margin="30" data-owl-autoplay="false">
 
 <div class="box--item text-center">
-    <a href="group-home.html" class="img" data-overlay="0.1">
+    <a href="#" class="img" data-overlay="0.1">
         <img src="./assets/img/group-img/01.jpg" alt=""/>
     </a>
 
@@ -468,7 +468,7 @@ class Home extends React.Component{
 </div>
 
 <div class="box--item text-center">
-    <a href="group-home.html" class="img" data-overlay="0.1">
+    <a href="#" class="img" data-overlay="0.1">
         <img src="./assets/img/group-img/02.jpg" alt=""/>
     </a>
 
@@ -497,7 +497,7 @@ class Home extends React.Component{
 </div>
 
 <div class="box--item text-center">
-    <a href="group-home.html" class="img" data-overlay="0.1">
+    <a href="#" class="img" data-overlay="0.1">
         <img src="./assets/img/group-img/03.jpg" alt=""/>
     </a>
 
@@ -526,7 +526,7 @@ class Home extends React.Component{
 </div>
 
 <div class="box--item text-center">
-    <a href="group-home.html" class="img" data-overlay="0.1">
+    <a href="#" class="img" data-overlay="0.1">
         <img src="./assets/img/group-img/04.jpg" alt=""/>
     </a>
 
@@ -555,7 +555,7 @@ class Home extends React.Component{
 </div>
 
 <div class="box--item text-center">
-    <a href="group-home.html" class="img" data-overlay="0.1">
+    <a href="#" class="img" data-overlay="0.1">
         <img src="./assets/img/group-img/05.jpg" alt=""/>
     </a>
 
@@ -584,7 +584,7 @@ class Home extends React.Component{
 </div>
 
 <div class="box--item text-center">
-    <a href="group-home.html" class="img" data-overlay="0.1">
+    <a href="#" class="img" data-overlay="0.1">
         <img src="./assets/img/group-img/06.jpg" alt=""/>
     </a>
 
@@ -619,7 +619,7 @@ class Home extends React.Component{
     <i class="fa fa-caret-left"></i>
 </a>
 
-<a href="groups.html" class="btn ff--primary fw--500 btn-default">View All Groups</a>
+<a href="#" class="btn ff--primary fw--500 btn-default">View All Groups</a>
 
 <a href="/#" class="btn fs--16 btn-default" data-action="next">
     <i class="fa fa-caret-right"></i>

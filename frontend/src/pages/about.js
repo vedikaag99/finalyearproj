@@ -4,7 +4,7 @@ class About extends React.Component{
     render(){
         return (
         <div>
-            <div class="wrapper">
+        <div class="wrapper">
         <div class="page--header pt--60 pb--60 text-center" data-bg-img="./assets/img/page-header-img/bg.jpg" data-overlay="0.85">
             <div class="container">
                 <div class="title">
@@ -12,7 +12,7 @@ class About extends React.Component{
                 </div>
 
                 <ul class="breadcrumb text-gray ff--primary">
-                    <li><a href="home-1.html" class="btn-link">Home</a></li>
+                    <li><a href="/" class="btn-link">Home</a></li>
                     <li class="active"><span class="text-primary">About</span></li>
                 </ul>
             </div>
@@ -222,8 +222,8 @@ class About extends React.Component{
         <a href="#" class="btn"><i class="fa fa-caret-up"></i></a>
     </div>
 
-        </div>
-        );
+    </div>
+    );
     }
 }
 export default About;

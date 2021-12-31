@@ -717,9 +717,10 @@ class Home extends React.Component{
 </div>
 </div>
 </section>
-</div></div>
-            </div>
-        );
-    }
+</div>
+</div>
+</div>
+);
+}
 }
 export default Home;

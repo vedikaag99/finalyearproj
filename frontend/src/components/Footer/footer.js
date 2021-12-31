@@ -107,9 +107,9 @@ class Footer extends React.Component{
 
                                 <div class="links--widget">
                                     <ul class="nav">
-                                        <li><a href="/#">Register</a></li>
+                                        <li><a href="/#">Sign Up</a></li>
                                         <li><a href="/#">Login</a></li>
-                                        <li><a href="/#">Membership Levels</a></li>
+                                        <li><a href="/comingsoon">Coming Soon</a></li>
                                         <li><a href="/about">About</a></li>
                                         <li><a href="/#">Contact</a></li>
                                     </ul>
